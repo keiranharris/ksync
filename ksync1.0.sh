@@ -1,8 +1,8 @@
 #!/bin/sh
 
 ########################################
-# VERSION:  1.0
-# UPDATED:  28/5/2016
+# VERSION:  GIT'ified
+# UPDATED:  11/03/2018
 # DESCRIP:  local sync (and rolling snapshot) of a nominated CIFS/SMB network share
 #   NOTES:  this has been setup initially for CBA gig sync. To add to this, just duplicate ### lines with new target
 #           this script relies on
